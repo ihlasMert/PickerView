@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E5D158C8275414920079A43E /* picker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = picker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E5D158C8275414920079A43E /* picker date.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "picker date.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5D158CB275414920079A43E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E5D158CD275414920079A43E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E5D158CF275414920079A43E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		E5D158C9275414920079A43E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E5D158C8275414920079A43E /* picker.app */,
+				E5D158C8275414920079A43E /* picker date.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E5D158C7275414920079A43E /* picker */ = {
+		E5D158C7275414920079A43E /* picker date */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E5D158DC275414940079A43E /* Build configuration list for PBXNativeTarget "picker" */;
+			buildConfigurationList = E5D158DC275414940079A43E /* Build configuration list for PBXNativeTarget "picker date" */;
 			buildPhases = (
 				E5D158C4275414920079A43E /* Sources */,
 				E5D158C5275414920079A43E /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = picker;
+			name = "picker date";
 			productName = picker;
-			productReference = E5D158C8275414920079A43E /* picker.app */;
+			productReference = E5D158C8275414920079A43E /* picker date.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E5D158C7275414920079A43E /* picker */,
+				E5D158C7275414920079A43E /* picker date */,
 			);
 		};
 /* End PBXProject section */
@@ -350,7 +350,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E5D158DC275414940079A43E /* Build configuration list for PBXNativeTarget "picker" */ = {
+		E5D158DC275414940079A43E /* Build configuration list for PBXNativeTarget "picker date" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E5D158DD275414940079A43E /* Debug */,
